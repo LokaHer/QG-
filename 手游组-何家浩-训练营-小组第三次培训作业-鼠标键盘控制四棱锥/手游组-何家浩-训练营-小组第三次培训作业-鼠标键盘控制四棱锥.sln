@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "手游组-何家浩-训练营-小组第三次培训作业-鼠标键盘控制四棱锥", "手游组-何家浩-训练营-小组第三次培训作业-鼠标键盘控制四棱锥\手游组-何家浩-训练营-小组第三次培训作业-鼠标键盘控制四棱锥.vcxproj", "{4390A658-E2E3-4ED4-9475-4BBD2057D735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Debug|x64.ActiveCfg = Debug|x64
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Debug|x64.Build.0 = Debug|x64
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Debug|x86.ActiveCfg = Debug|Win32
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Debug|x86.Build.0 = Debug|Win32
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Release|x64.ActiveCfg = Release|x64
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Release|x64.Build.0 = Release|x64
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Release|x86.ActiveCfg = Release|Win32
+		{4390A658-E2E3-4ED4-9475-4BBD2057D735}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6307AB7-77B0-48BB-B8BA-2467F72099AE}
+	EndGlobalSection
+EndGlobal
